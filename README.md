@@ -1,5 +1,5 @@
 # LedFlash
-Arduino non-blocking Library/ Class to switch/ time or flash LED's connected to output pins.
+Arduino non-blocking Library/ Class to time or flash LED's connected to output pins.
 inspired by Bounce2 - using similar syntax
 
 See header file for comments
