@@ -12,3 +12,5 @@ Commands:
 .flash (with timer) - flash led (for x seconds, for period set)
 
 .period - set flash period (default = 200ms)
+
+.update - update the LED status (call frequently, once in a loop)
