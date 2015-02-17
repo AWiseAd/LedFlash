@@ -3,6 +3,7 @@ Arduino non-blocking Library/ Class to time or flash LED's connected to output p
 inspired by Bounce2 - using similar syntax
 
 See header file for comments
+
 Commands:
 
 .on (with timer)  - switch led on (for x seconds)
